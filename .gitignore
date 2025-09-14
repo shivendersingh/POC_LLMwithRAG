@@ -1,0 +1,130 @@
+# RAG System with DeepSeek API - Git Ignore File
+# Excludes sensitive data, cache files, and unnecessary files
+
+# Environment Variables and API Keys
+.env
+.env.local
+.env.production
+.env.staging
+*.env
+
+# API Keys and Secrets
+*api_key*
+*secret*
+*token*
+*.key
+config/secrets/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test Outputs
+*.log
+*.out
+*.json
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime*
+*.swp
+*.bak
+*.tmp
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Documentation
+*.md.bak
+*.docx
+*.pdf
+
+# Misc
+*.cache
+*.db
+*.sqlite
+*.pid
+*.lock
+*.bak
+*.old
+*.orig
+*.rej
+*.swp
+*.swo
+*.tmp
+*.temp
+*.test
+*.spec
+*.coverage
+*.egg-info/
+*.dist-info/
+
+# Node
+node_modules/
+
+# Others
+*.pem
+*.crt
+*.cer
+*.der
+*.csr
+*.pub
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.asc
+*.gpg
+*.sig
+*.enc
+*.dec
+*.sec
+*.private
+*.public
+*.ssh
+*.aws
+*.azure
+*.gcp
+*.docker
+*.kube
+*.vault
+*.tfstate
+*.tfvars
+*.terraform/
+*.envrc
+*.secrets
+*.credentials
+*.config
+*.settings
+*.token
+*.session
+*.history
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.pid
+*.lock
+*.old
+*.orig
+*.rej
+*.test
+*.spec
+*.coverage
+*.egg-info/
+*.dist-info/
