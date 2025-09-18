@@ -1,0 +1,62 @@
+{
+  "378d77e232814bfcaca9e7cb0abfbc883195eb12458741cd5c1d0263d11ea796": {
+    "file_path": "E:/POC_LLMwithRAG/DemoData/knowledge.pdf",
+    "file_name": "knowledge.pdf",
+    "file_hash": "378d77e232814bfcaca9e7cb0abfbc883195eb12458741cd5c1d0263d11ea796",
+    "processed_at": "2025-09-17T16:04:30.460571",
+    "chunks_processed": 6,
+    "images_processed": 0,
+    "processing_time": 1.32295,
+    "status": "success"
+  },
+  "e9b0c182f590d60823cead98c75492a08b6fef56defa66bb522622b3fa101103": {
+    "file_path": "C:\\Users\\shive\\AppData\\Local\\Temp\\tmpnbo2cj89.pdf",
+    "file_name": "tmpnbo2cj89.pdf",
+    "file_hash": "e9b0c182f590d60823cead98c75492a08b6fef56defa66bb522622b3fa101103",
+    "processed_at": "2025-09-17T16:10:51.631667",
+    "chunks_processed": 0,
+    "images_processed": 1,
+    "processing_time": 23.214811,
+    "status": "success"
+  },
+  "68b3b38df06b9e7165b9088a34980364ac08816fcc5b8915301a76dc3a39c9c4": {
+    "file_path": "C:\\Users\\shive\\AppData\\Local\\Temp\\tmp5bpg11jl.pdf",
+    "file_name": "tmp5bpg11jl.pdf",
+    "file_hash": "68b3b38df06b9e7165b9088a34980364ac08816fcc5b8915301a76dc3a39c9c4",
+    "processed_at": "2025-09-17T16:31:21.643168",
+    "chunks_processed": 0,
+    "images_processed": 42,
+    "processing_time": 974.148236,
+    "status": "partial_success"
+  },
+  "7604f5e810fba04026c4fd132db9d9eec351b34ab5f760714c018740779df0ed": {
+    "file_path": "C:\\Users\\shive\\AppData\\Local\\Temp\\tmpfzkxc1qq.pdf",
+    "file_name": "tmpfzkxc1qq.pdf",
+    "file_hash": "7604f5e810fba04026c4fd132db9d9eec351b34ab5f760714c018740779df0ed",
+    "processed_at": "2025-09-17T17:24:21.406620",
+    "chunks_processed": 0,
+    "images_processed": 1,
+    "processing_time": 23.103048,
+    "status": "success"
+  },
+  "d5563cb5be6cf1638c8d124d54c0e79b7755eb2a6d2b95ae528671bdd3408e91": {
+    "file_path": "C:\\Users\\shive\\AppData\\Local\\Temp\\tmpuau8lhqp.pdf",
+    "file_name": "tmpuau8lhqp.pdf",
+    "file_hash": "d5563cb5be6cf1638c8d124d54c0e79b7755eb2a6d2b95ae528671bdd3408e91",
+    "processed_at": "2025-09-17T21:30:42.350680",
+    "chunks_processed": 0,
+    "images_processed": 0,
+    "processing_time": 221.050573,
+    "status": "success"
+  },
+  "513e19858674c0d4dc66b7e490c255dcfa7959afcce065db7517a96ba2b28e45": {
+    "file_path": "C:\\Users\\shive\\AppData\\Local\\Temp\\tmp28ylb4x_.pdf",
+    "file_name": "tmp28ylb4x_.pdf",
+    "file_hash": "513e19858674c0d4dc66b7e490c255dcfa7959afcce065db7517a96ba2b28e45",
+    "processed_at": "2025-09-17T21:37:24.745260",
+    "chunks_processed": 29,
+    "images_processed": 0,
+    "processing_time": 129.167463,
+    "status": "success"
+  }
+}
